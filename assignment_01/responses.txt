@@ -1,0 +1,8 @@
+1)The internet is a physical cable that has been created to connect participants around the world. The web is an ecosystem that connects information, specifically hypertexts.
+
+2)The internet is a physical cable that is run around the world and even under the oceans. This cable connects data centers and these data centers contain routers to one another. To connect the world together these cables run under the ocean and then connect to landing stations which are usually tucked away in a shore based town.
+
+3)Directories are organized into groups and use a hierarchial structure. The root directory will always be at the top, an active directory is the current folder being worked on (assignment_1), and anything below that is a sub directory. Directory relationships are familial and a root directory would be considered a parent folder, and the sub folder below that is consider a child folder.
+
+4)Using VCS or version control system allows you to track any changes made and by who in real time, and helps to manage source code.
+

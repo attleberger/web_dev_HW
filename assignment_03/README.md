@@ -5,4 +5,4 @@
 
 2) Markup language is a combination of text, design, and interactivity that helps form the structure of any webpage.
 
-  ![Assignment 3 Screenshot](./images/A3_screenshot.png)
+  ![Assignment 3 Screenshot](./images/screenshot.png)

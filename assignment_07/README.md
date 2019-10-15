@@ -15,4 +15,4 @@
 3. ****Summarize your work cycle for this assignment.****
       - For some reason this week seemed a little easier than week 6. I did struggle with the video elements just a little but hopefully I finally figured that out.  I like being able to style a little bit more and more each week. I know that this is just a glimpse into what someone actually puts into styling of a page but I am excited to dive deeper into it.
 
-[live site](https://jattleberger.github.io/web_dev_HW/assignment_07/)
+[live site](https://attleberger.github.io/web_dev_HW/assignment_07/)

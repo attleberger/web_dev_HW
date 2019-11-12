@@ -6,11 +6,12 @@ src: url('../fonts/Alegreya-Regular.ttf') format('regular');
 font-weight: regular;
 font-style: regular;}
 
+
 body{
   margin: 40px;
   padding: 40px;
   margin-top: 20px;
-  background-color: rgb(201,255,229);
+  background-color: royalblue;
   font-size: 18pt;
   font-family: 'Alegreya', serif;
 }
@@ -29,10 +30,9 @@ h2{
   font-family: 'Alegreya', italic, serif;
   }
 
-p::first-letter {
+p:first-letter {
   font-size: 24pt;
-  width: 450px;
-}
+  width: 450px;}
 
 a:visited {
    color: black;
@@ -41,5 +41,4 @@ a:visited {
 a:hover {
    font-style: italic;
    color: rgb(0, 0, 0);
-   text-align: center;
-}
+   text-align: center;}

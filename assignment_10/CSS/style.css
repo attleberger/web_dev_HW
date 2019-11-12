@@ -11,10 +11,9 @@ body{
   margin: 40px;
   padding: 40px;
   margin-top: 20px;
-  background-color: royalblue;
+  background-color: rgb(201, 255, 229);
   font-size: 18pt;
-  font-family: 'Alegreya', serif;
-}
+  font-family: 'Alegreya', serif;}
 
 h1{
   font-family: 'Alegreya', serif;

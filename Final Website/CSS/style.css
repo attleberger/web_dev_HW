@@ -50,7 +50,7 @@ body{
 
 .image-2 {
   width: 400px;
-  height: 250px;
+  height: 300px;
   border-color: #123C69;
   position: relative;
   margin: auto;
@@ -96,7 +96,7 @@ body{
 }
 
 .nav-bar:hover{
-  color: rgb(0, 156, 255)
+  color: #E8A87C
 }
 
 header{
@@ -122,14 +122,14 @@ header{
 }
 
 a:hover {
-  color: rgb(72, 181, 39)
+  color: #E8A87C
 }
 
 .link-style:hover{
-  color: rgb(72, 181, 39)
+  color: #E8A87C
 }
 
-/* Other Ranches*/
+/* More From Me*/
 
 .dropdown-piece{
   display: block;
@@ -140,7 +140,7 @@ a:hover {
 }
 
 .dropdown-piece:hover, .dropdown-piece:hover a {
-    color: rgb(72, 181, 39);
+    color: r#E8A87C;
     background-color: #edefea;
 }
 

@@ -1,9 +1,9 @@
 body{
-  background-color: #516e27;
+  background-color: #41B3A3;
 }
 
 .Main_Container {
-  background-color: rgb(255, 255, 255);
+  background-color: #C38D9E;
   padding: 3em;
   margin: 2em;
   display:
@@ -19,9 +19,9 @@ body{
 
 
 .image {
-  width: 400px;
-  height: 266px;
-  border-color: #253159;
+  width: 300px;
+  height: 375px;
+  border-color: #123C69;
   position: relative;
   margin: auto;
   border-width: thick;
@@ -29,14 +29,14 @@ body{
   margin-top: 1em;
   border-style: double;
   align-items: center;
-  border-color: #253159;
+  border-color: #123C69;
   text-align: center;
 }
 
 .image-1 {
-  width: 400px;
-  height: 300px;
-  border-color: #253159;
+  width: 300px;
+  height: 350px;
+  border-color: #123C69;
   position: relative;
   margin: auto;
   border-width: thick;
@@ -44,14 +44,14 @@ body{
   margin-top: 1em;
   border-style: double;
   align-items: center;
-  border-color: #253159;
+  border-color: #123C69;
   text-align: center;
 }
 
 .image-2 {
   width: 400px;
   height: 250px;
-  border-color: #253159;
+  border-color: #123C69;
   position: relative;
   margin: auto;
   border-width: thick;
@@ -59,14 +59,14 @@ body{
   margin-top: 1em;
   border-style: double;
   align-items: center;
-  border-color: #253159;
+  border-color: #123C69;
   text-align: center;
 }
 
 .image_lab {
   width: 400px;
   height: 400px;
-  border-color: #253159;
+  border-color: #123C69;
   position: relative;
   margin: auto;
   border-width: thick;
@@ -74,7 +74,7 @@ body{
   margin-top: 1em;
   border-style: double;
   align-items: center;
-  border-color: #253159;
+  border-color: #123C69;
   text-align: center;
 }
 

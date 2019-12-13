@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      body {
+          background-image: url("./image_01");
+          background-color: #C9FFE5;
+          height: 500px;
+          background-position: center;
+          background-repeat: repeat;
+          background-size: cover;
+        }
+        .container {
+          background-color: white;
+          width: 1000px;
+          margin: auto;
+          padding: 20px;
+          font-family: Arial;
+        }
+    </style>
+  </head>
+  <body>
+    <nav id="navigation" class="container">
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <h1>Contact Me</h1>
+    <form action="http://www.example.com/login.php" method="post" id="comments" class="basic-forms">
+      <p>
+        Name</br>
+        <input type="text" name="name" id="name_input"/> </br></br>
+        Email</br>
+        <input type="text" name="email" id="email_input" placeholder="example@gmail.com"/> <br><br>
+        Did you enjoy this recipe?</br>
+        <input type="radio" name="rewards member" value="yes"/> Yes
+        </br />
+        <input type="radio" name="rewards member" value="no" checked/> No
+        </br>
+        </br>
+        Comments or Concerns</br>
+        <textarea name="comments" id="comments-textarea" maxlength="500" cols="90" rows="4">Enter up to 500 characters...</textarea>
+        </br>
+        </br>
+        <input type="submit" name="submit" value="Submit" />
+      </p>
+  </body>
+</html>
